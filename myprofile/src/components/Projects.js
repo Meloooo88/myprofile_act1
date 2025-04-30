@@ -2,8 +2,8 @@ const Projects = () => (
     <div>
       <h2>Projects</h2>
       <ul>
-        <li>Library App - Built with React and Firebase</li>
-        <li>Sales Forecasting App - Used TensorFlow.js and Charts</li>
+        <li>Discover Cabuyao: HTML, CSS, JAVASCRIPT</li>
+        <li>My Progile: React</li>
       </ul>
     </div>
   );
