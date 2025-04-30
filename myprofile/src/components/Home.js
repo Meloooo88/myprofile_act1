@@ -1,14 +1,9 @@
-// src/components/Home.js
-import React from 'react';
-
-function Home() {
-  return (
-    <section className="home">
-      <h1>Welcome to My Profile</h1>
-      <p>This is a simple React profile site.</p>
-      <button className="primary-btn">Get in Touch</button>
-    </section>
+const Home = () => (
+    <div>
+      <h1>Welcome!</h1>
+      <p>This is my personal website. I'm Adiel Mhelo Brosoto 3rd year IT students from University of Cabuyao</p>
+    </div>
   );
-}
-
-export default Home;
+  
+  export default Home;
+  
