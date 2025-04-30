@@ -2,8 +2,10 @@ const Education = () => (
     <div>
       <h2>Education</h2>
       <ul>
-        <li>XYZ University - BS Computer Science</li>
-        <li>Relevant Courses: Web Dev, Data Structures</li>
+        <li>Elementary: San Luis, Central School </li>
+        <li>High School: St. Blaise Community Academy</li>
+        <li>College: University of the Cabuyao</li>
+        <li>Course: Bachelor of Science in Informatio Technology</li>
       </ul>
     </div>
   );
